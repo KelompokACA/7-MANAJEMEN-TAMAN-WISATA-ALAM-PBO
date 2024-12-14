@@ -43,3 +43,5 @@ class TiketPremium extends Tiket {
         System.out.println("Tiket Premium - Harga: " + getHarga() + ", Fasilitas: " + getKategori());
     }
 }
+
+//Coba ae

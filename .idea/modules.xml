@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/pbofinal3.iml" filepath="$PROJECT_DIR$/pbofinal3.iml" />
 =======
 <<<<<<< HEAD
@@ -12,6 +13,9 @@
       <module fileurl="file://$PROJECT_DIR$/pbofinal2.iml" filepath="$PROJECT_DIR$/pbofinal2.iml" />
 >>>>>>> b84ab5aa68f091aa11d59e0cbbd81bb9a8684901
 >>>>>>> 20c10a3c8521ba2a0f19c8cca8ea3647e16353fe
+=======
+      <module fileurl="file://$PROJECT_DIR$/pbofinal3.iml" filepath="$PROJECT_DIR$/pbofinal3.iml" />
+>>>>>>> d4f1c7c (Agnes commit)
     </modules>
   </component>
 </project>

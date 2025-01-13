@@ -5,8 +5,13 @@
 <<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/pbofinal3.iml" filepath="$PROJECT_DIR$/pbofinal3.iml" />
 =======
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/cobaan.iml" filepath="$PROJECT_DIR$/cobaan.iml" />
 >>>>>>> 2c8e88762153b179333880f6e28d6215d15cc395
+=======
+      <module fileurl="file://$PROJECT_DIR$/pbofinal2.iml" filepath="$PROJECT_DIR$/pbofinal2.iml" />
+>>>>>>> b84ab5aa68f091aa11d59e0cbbd81bb9a8684901
+>>>>>>> 20c10a3c8521ba2a0f19c8cca8ea3647e16353fe
     </modules>
   </component>
 </project>
